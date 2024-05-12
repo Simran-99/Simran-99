@@ -7,6 +7,7 @@ Hey there! I'm Simran Kaur, a recent graduate with a master's in applied compute
 - 🌱 I’m currently exploring machine learning,eager to explore its possibilities further.
 - 🤔 Recent Graduate with Master's in Applied Computer Science from Concordia University
 - ⚡ Former Programming Analyst at Instrovate Technologies
+- 💬 Microsoft Certified Azure Data Scientist
 - 📫 How to reach me: Email: simransohal332@gmail.com 
 - 😄 Pronouns: She/Her
 
