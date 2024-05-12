@@ -9,7 +9,7 @@ Hey there! I'm Simran Kaur, a recent graduate with a master's in applied compute
 - ⚡ Former Programming Analyst at Instrovate Technologies
 - 📫 How to reach me: Email: simransohal332@gmail.com 
 - 😄 Pronouns: She/Her
--
+
 
 <!--
 **Simran-99/Simran-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
